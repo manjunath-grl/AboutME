@@ -1,11 +1,13 @@
 <h1 align="center">👋 Hi, I'm Manjunath!</h1>
 
 ## ⚡ About Me:
-🚀 Engineer by Education - DevOps Engineer - Aspiring Solution Architect  
-❤️ Passionate about automation, cloud computing, and open-source contributions.
+🚀 DevOps Engineer
+❤️ Passionate about automation, cloud computing
 
 ## 🖥️ Tech Stack:
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
+![Shell Scripting](https://img.shields.io/badge/-Shell_Scripting-4EAA25?style=flat-square&logo=gnu-bash)
+![Groovy](https://img.shields.io/badge/-Groovy-4298B8?style=flat-square&logo=apache-groovy)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws)
 ![NGINX](https://img.shields.io/badge/-NGINX-009639?style=flat-square&logo=nginx)
 ![Apache](https://img.shields.io/badge/-Apache-D22128?style=flat-square&logo=apache)
